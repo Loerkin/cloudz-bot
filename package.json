@@ -1,0 +1,12 @@
+{
+“name”: “cloudz-bot”,
+“version”: “1.0.0”,
+“description”: “----- New Discord Music Bot -----
+× 24/7 Radio
+× Active support on the official server 24/7
+× YouTube, Soundcloud, Spotify (coming soon)
+× Easy setup”,
+“main”: “bot.js”,
+“author”: “Loerkin”,
+“dependencies”: {}
+}
